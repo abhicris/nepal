@@ -1,0 +1,7 @@
+Name :  chandan jha
+gender :  male
+Age :  34
+degree :  btech
+phone :  8587024270
+city :  Karnali
+briefdetails :  i was i nepal

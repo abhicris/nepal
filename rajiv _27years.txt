@@ -1,0 +1,7 @@
+Name :  rajiv 
+gender :  male
+Age :  27
+degree :  btech
+phone :  7678676766
+city :  Bagmati
+briefdetails :  

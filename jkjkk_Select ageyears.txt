@@ -1,0 +1,7 @@
+Name :  jkjkk
+gender :  male
+Age :  Select age
+degree :  
+phone :  98978686
+city :  Enter your location (Zone) :
+briefdetails :  

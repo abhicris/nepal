@@ -1,0 +1,7 @@
+Name :  
+gender :  
+Age :  Select age
+degree :  
+phone :  
+city :  Enter your location (Zone) :
+briefdetails :  

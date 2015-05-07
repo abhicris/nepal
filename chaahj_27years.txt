@@ -1,0 +1,7 @@
+Name :  chaahj
+gender :  male
+Age :  27
+degree :  btech
+phone :  76868
+city :  Dhaualagiri
+briefdetails :  

@@ -1,0 +1,14 @@
+Name :  chandan jha
+gender :  male
+Age :  23
+degree :  btech
+phone :  8587024270
+city :  pokhran
+briefdetails :  ani as in enpal
+Name :  chandan jha
+gender :  male
+Age :  23
+degree :  btech
+phone :  8587024270
+city :  pokhran
+briefdetails :  ani as in enpal
